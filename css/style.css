@@ -1,0 +1,55 @@
+body{
+
+background-color: blanchedalmond;
+
+margin: 0;
+}
+div{
+
+width: 900px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 70px;
+
+padding: 50px;
+
+background-color: wheat;
+
+color: darkred;
+
+box-shadow: 0 1px 10px;
+}
+h1{
+
+margin: 0;
+
+text-transform: capitalize;
+}
+span{
+
+text-transform: uppercase;
+
+color: #7f61da;
+}
+b{
+
+font-size: 50px;
+}
+p{
+	
+margin: 0;
+	
+color: black;
+	
+line-height: 1.5;
+	
+text-align: justify;
+
+font-size: 18px;
+}
+img{
+	width: 100%;
+}
